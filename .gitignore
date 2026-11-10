@@ -1,0 +1,15 @@
+﻿# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+# Log Files
+*.log
+# Dependency Folders
+node_modules/
+# Build and Test Output
+dist/
+coverage/
+# Environment and Secret Files
+.env
+.env.*
+!.env.example
